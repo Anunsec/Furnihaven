@@ -12,7 +12,7 @@ const ContactUs = () => {
             </div>
             <div className="p-4 text-xl font-normal">
               <p className="mb-4">Salt Lake,Kolkata,West Bengal</p>
-              <p className="mb-4">Bigboom@domain.com</p>
+              <p className="mb-4">furnihaven.vercel.app/</p>
               <p>+91 9508041386</p>
             </div>
             <div className="p-4">
